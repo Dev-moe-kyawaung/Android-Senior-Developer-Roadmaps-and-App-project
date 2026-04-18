@@ -1,0 +1,31 @@
+# Build files
+*.apk
+*.aar
+.gradle/
+build/
+*.class
+
+# Local configuration file
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+*.swp
+*.swo
+
+# Android Studio
+.android/
+*.log
+gradle-wrapper.jar
+
+# Environment files
+.env
+.env.local
+
+# Credentials and secrets
+secrets.xml
+google-services.json
