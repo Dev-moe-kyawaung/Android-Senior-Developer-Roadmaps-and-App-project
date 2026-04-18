@@ -1,0 +1,23 @@
+android-dev-roadmap/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/yourcompany/
+│   │   │   │   ├── ui/
+│   │   │   │   ├── viewmodel/
+│   │   │   │   ├── repository/
+│   │   │   │   └── data/
+│   │   │   ├── res/
+│   │   │   └── AndroidManifest.xml
+│   │   ├── test/
+│   │   └── androidTest/
+│   ├── build.gradle.kts
+│   └── proguard-rules.pro
+├── gradle/
+├── .gitignore
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── gradle.properties
+├── settings.gradle.kts
+└── build.gradle.kts (root)
