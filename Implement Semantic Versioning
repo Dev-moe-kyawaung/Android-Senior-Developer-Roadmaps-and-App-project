@@ -1,0 +1,6 @@
+# Tag releases
+git tag -a v1.0.0 -m "Version 1.0.0 - Initial Release"
+git push origin v1.0.0
+
+# Create GitHub Release with changelog
+
