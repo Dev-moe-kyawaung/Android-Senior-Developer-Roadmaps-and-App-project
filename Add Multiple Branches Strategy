@@ -1,0 +1,9 @@
+# Create develop branch
+git checkout -b develop
+git push -u origin develop
+
+# Create feature branches as needed
+git checkout -b feature/new-feature
+
+# Workflow: feature → develop → main (through PR)
+
